@@ -20,6 +20,6 @@ public class Program {
         else
             if(factorySpesification.equalsIgnoreCase("cpp"))
                 return new CppDevFactory();
-            else throw new RuntimeException(factorySpesification +  " is unknown programmer");
+            else throw new RuntimeException(factorySpesification +  " is unknown program specification");
     }
 }
