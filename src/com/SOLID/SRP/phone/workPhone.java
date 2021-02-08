@@ -1,4 +1,4 @@
-package com.SOLID.SRP;
+package com.SOLID.SRP.phone;
 
 public class workPhone {
     public static void main(String[] args) {

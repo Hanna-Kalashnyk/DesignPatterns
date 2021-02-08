@@ -1,4 +1,4 @@
-package com.SOLID.SRP;
+package com.SOLID.SRP.phone;
 
 public class PhoneIO {
     CallIO caller;
